@@ -5,8 +5,6 @@ I had to help my mom to create a list on Sheets, the list needed to have the nam
 
 ## Usage/Examples
 
-![example of code pasted on code.gs](/assets/images/example.png)
-
 ### Usage:
 
 - Click on Extensions > Apps Script
@@ -17,6 +15,8 @@ I had to help my mom to create a list on Sheets, the list needed to have the nam
 - Select the function you have just created
 - Click on Extensions > Macros > **"Name of the function"**
 - Just wait and a new sheet will be created with the list of names
+
+![example of code pasted on code.gs](/assets/images/example.png)
 
 ### Example:
 
